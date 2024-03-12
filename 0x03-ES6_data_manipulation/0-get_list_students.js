@@ -1,19 +1,19 @@
 const getListStudents = () => [
   {
     id: 1,
-    fristname: 'Guillaume',
+    firstName: 'Guillaume',
     location: 'San Francisco',
   },
   {
     id: 2,
-    fristname: 'James',
+    firstName: 'James',
     location: 'Columbia',
   },
   {
     id: 5,
-    fristname: 'Serena',
+    firstName: 'Serena',
     location: 'San Francisco',
-
   },
 ];
+
 export default getListStudents;
